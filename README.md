@@ -2,6 +2,8 @@
 Basic MEAN Stack Project: RESTful API
 ===
 
+[Link to live project](https://warm-brushlands-1881.herokuapp.com/)
+
 0. Goals
 ---
 * Single-page CRUD app to manage a contact list
